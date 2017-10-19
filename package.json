@@ -1,6 +1,6 @@
 {
   "name": "enki-content",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "parser of enki insights",
   "main": "dist/index.js",
   "files": [
